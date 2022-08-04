@@ -7,3 +7,5 @@ Paywall refactor com TypeScript
 
 - Develop: Consumidor_Paywall_Go_DSV
 - Produção: 
+
+A documentação completa pode ser encontrada aqui.
