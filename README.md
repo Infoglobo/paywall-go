@@ -13,8 +13,6 @@ A documentação completa pode ser encontrada aqui.
 
 ## Tecnologias utilizadas
 
-- S3 server storage ::  
-- Typescipt :: https://www.typescriptlang.org/
+- [Typescipt](https://www.typescriptlang.org/)
+- [S3 server storage](http://docs.s3.globoi.com/)
 - [WebPack](https://webpack.js.org/)
-- [Link text Here](https://link-url-here.org)
-- [This is an external link to genome.gov](https://www.genome.gov/)
