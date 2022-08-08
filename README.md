@@ -19,4 +19,4 @@ A documentação completa pode ser encontrada aqui.
 - [S3 server storage](http://docs.s3.globoi.com/)
 - [WebPack](https://webpack.js.org/)
 
-Feito com sparkling_heart by Equipe Aquisição / Consumidor [Keep Coding !!!!]
+Feito com :sparkling_heart: pela Equipe Aquisição / Consumidor [Keep Coding !!!!]
