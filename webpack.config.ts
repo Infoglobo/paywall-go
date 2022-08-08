@@ -11,7 +11,7 @@ const ENVIRONMENT = process.env.ENVIRONMENT;
 const ASSETS_URL = process.env.ASSETS_URL;
 
 const webpackConfig = () => {
-  const publicPath = ENVIRONMENT === 'development' ? '/' : `${ASSETS_URL}/js/`;
+  const publicPath = ENVIRONMENT === 'development' ? '/' : `${ASSETS_URL}/dist/`;
 
   return {
     entry: './src/index.ts',
