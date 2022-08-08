@@ -1,6 +1,8 @@
 # paywall-go
 
-Paywall refactor com TypeScript
+Paywall refactor com TypeScript.
+
+![code](https://user-images.githubusercontent.com/92032089/183511704-ea2ca41c-52ec-4eb8-909e-60cab4113e96.png)
 
 ## Processo de Deploy
 
@@ -16,3 +18,5 @@ A documentação completa pode ser encontrada aqui.
 - [Typescipt](https://www.typescriptlang.org/)
 - [S3 server storage](http://docs.s3.globoi.com/)
 - [WebPack](https://webpack.js.org/)
+
+Feito com sparkling_heart by Equipe Aquisição / Consumidor [Keep Coding !!!!]
