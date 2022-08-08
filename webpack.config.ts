@@ -41,7 +41,7 @@ const config = {
     static: path.join(__dirname, 'dist'),
     host: 'tinyjs.globoi.com',
     compress: true,
-    port: 8080,
+    port: 4000,
     open: true,
   },
   optimization: {
